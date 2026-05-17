@@ -189,7 +189,9 @@ Watchlist
 Add Movie Section
 <img width="1919" height="1079" alt="Screenshot 2026-05-17 224110" src="https://github.com/user-attachments/assets/4793e3db-77ff-4d61-a243-4314b93c4308" />
 Rating and Reviews
+
 <img width="318" height="915" alt="image" src="https://github.com/user-attachments/assets/9b85e29d-5b70-464b-82ca-1f922e2c97e8" />
+
 Bucket List
 <img width="1919" height="1079" alt="Screenshot 2026-05-17 224038" src="https://github.com/user-attachments/assets/7df235fa-1a1b-4e57-b99d-c372bd5acc11" />
 News Section
